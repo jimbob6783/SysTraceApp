@@ -14,7 +14,4 @@
 
 ---
 
-## 🧩 Architecture Overview
-
-**SysTraceApp** follows the MVVM (Model-View-ViewModel) pattern:
 
